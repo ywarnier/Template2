@@ -22,7 +22,7 @@ Template::Tutorial::Web - Generating Web Content Using the Template Toolkit
 
 =head1 Overview
 
-This tutorial document provides a introduction to the Template Toolkit and
+This tutorial document provides an introduction to the Template Toolkit and
 demonstrates some of the typical ways it may be used for generating web
 content. It covers the generation of static pages from templates using the
 L<tpage|Template::Tools::tpage> and L<ttree|Template::Tools::ttree> scripts
