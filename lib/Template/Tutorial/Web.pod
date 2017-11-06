@@ -148,7 +148,7 @@ document.
 
 =head2 Using tpage
 
-Having created a template file we can now process it to generate some real
+Having created a template file, we can now process it to generate some real
 output. The quickest and easiest way to do this is to use the
 L<tpage|Template::Tools::tpage> script. This is provided as part of the
 Template Toolkit and should be installed in your usual Perl bin directory.
