@@ -395,7 +395,7 @@ variables that we want made available to the template:
         || die "Template process failed: ", $template->error(), "\n";
 
 So that our scripts will work with the same template files as our earlier
-examples, we'll can add some configuration options to the constructor to 
+examples, we can add some configuration options to the constructor to 
 tell it about our environment:
 
     my $template->new({
