@@ -215,7 +215,7 @@ written to (C<dest>), and any other directories (C<lib>) that may contain
 template files that you plan to C<INCLUDE> into your source documents. You can
 also specify processing options (such as C<verbose> and C<recurse>) and provide
 regular expression to match files that you don't want to process (C<ignore>,
-C<accept>)> or should be copied instead of being processed as templates (C<copy>).
+C<accept>) or should be copied instead of being processed as templates (C<copy>).
 
 An example F<.ttreerc> file is shown here:
 
